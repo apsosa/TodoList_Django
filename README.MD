@@ -1,1 +1,1 @@
-# TODO LIST APP USING DJANGO
+# A TodoLis Web App with DJANGO
