@@ -1,1 +1,1 @@
-# A TodoLis Web App with DJANGO
+# A TodoList Web App with DJANGO
